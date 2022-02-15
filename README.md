@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am **_El Hadji Seybatou Mbengue_** and ...
+>```
+>#!/bib/bash
+>echo "I do Code"
+>```
+
 
 <!--
 **dev0ps221/dev0ps221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
