@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am **_El Hadji Seybatou Mbengue_** and ...
 >```
->#!/bib/bash
+>#!/bin/bash
 >echo "I do Code"
 >```
 
