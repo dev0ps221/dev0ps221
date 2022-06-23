@@ -4,7 +4,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >#!/bin/bash
 >echo "I do Code"
 >```
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dev0ps221/dev0ps221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
