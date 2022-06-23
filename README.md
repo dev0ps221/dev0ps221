@@ -5,8 +5,17 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >echo "I do Code"
 >```
 I am the founder of **_[TEK TECH](http://tektech.rf.gd)_** 
-<img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECH.png'/>
-and i made our news platforms **_[Tek-Tech News](http://news-tektech.rf.gd)_** and some other tools you will soon find on the Internet
+
+>
+><img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECH.png'/>
+>
+
+Also i made our main news platforms **_[Tek-Tech News](http://news-tektech.rf.gd)_** 
+>
+><img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECHNEWS.png'/>
+>
+
+And some other tools you can find on the Internet
 
 
 <h3 align="left">Languages and Tools:</h3>
