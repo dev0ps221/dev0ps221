@@ -4,7 +4,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >#!/bin/bash
 >echo "I do Code"
 >```
-I am the founder of **_[![trophy](http://tektech.rf.gd)](http://tektech.rf.gd)_** and i made our news platforms **_[Tek-Tech News](http://news-tektech.rf.gd)_** and some other tools you will soon find on the Internet
+I am the founder of **_[TEK TECH](http://tektech.rf.gd)_** and i made our news platforms **_[Tek-Tech News](http://news-tektech.rf.gd)_** and some other tools you will soon find on the Internet
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](http://tektech.rf.gd)
 
 
