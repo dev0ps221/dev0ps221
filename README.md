@@ -28,7 +28,6 @@ And some other tools you can find on the Internet
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](http://tektech.rf.gd)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tek-Tech)](http://tektech.rf.gd)
 
 
 ><img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECHPC.png'/>
