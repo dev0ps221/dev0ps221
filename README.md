@@ -25,7 +25,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 And some other tools you can find on the Internet
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](http://tektech.rf.gd)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
