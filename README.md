@@ -6,6 +6,8 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >```
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](https://github.com/ryo-ma/github-profile-trophy)
 
+I am the founder of **_[TEK TECH](http://tektech.rf.gd)_** and i made our news platforms **_[Tek-Tech News](http://news-tektech.rf.gd)_** and some other tools you will soon find on the Internet
+
 <!--
 **dev0ps221/dev0ps221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
