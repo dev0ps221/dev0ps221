@@ -32,7 +32,7 @@ And some other tools you can find on the Internet
 
 
 
-><img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECHPC.png'/>
+><img src='https://github.com/dev0ps221/dev0ps221/blob/main/site.png'/>
 
 
 <!--
