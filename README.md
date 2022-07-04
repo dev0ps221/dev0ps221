@@ -36,7 +36,7 @@ And some other tools you can find on the Internet
 
 
 - 🔭 I’m currently working on ... 
-><a href='https://github.com/dev0ps221/hackthenet'>https://github.com/dev0ps221/hackthenet - HACKTHENET (A PENTESTING FRAMEWORK) </a>
+><a href='https://github.com/dev0ps221/hackthenet'>https://github.com/dev0ps221/hackthenet - HACKTHENET (AN INTERESTING SHELL) </a>
 
 <!--
 **dev0ps221/dev0ps221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
