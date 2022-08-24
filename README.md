@@ -27,7 +27,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 <h3 align="left">GitHub Trophies:</h3>
 
 > <p align='center'>
-> [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](http://mrmbengue.rf.gd) 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](http://mrmbengue.rf.gd) 
 > </p>
 
 
