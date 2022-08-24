@@ -4,12 +4,14 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >#!/bin/bash
 >echo "I do Code"
 >```
-| <a href="https://github.com/dev0ps221/dev0ps221"><img align="center" src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="El Hadji Seybatou Mbengue's Stats" /></a> | <a href="https://github.com/dev0ps221/dev0ps221"><img align="center" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" /></a> |
-  | ------------- | ------------- |
-
-<p align="center" width='100%' height="300px">
-  <img width="50%" height="100%" src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
-  <img width="50%" height="100%" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" />
+>
+<p width='100%' height="300px">
+  <a width="50%" href="https://github.com/dev0ps221/dev0ps221">
+  <img width="100%" height="100%" src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
+  </a>
+  <a width="50%" href="https://github.com/dev0ps221/dev0ps221">
+  <img width="100%" height="100%" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" />
+  <a href="https://github.com/dev0ps221/dev0ps221">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
