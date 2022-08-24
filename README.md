@@ -25,18 +25,6 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 </p> 
 
 **I am the founder of _[TEK TECH](http://tektech.rf.gd)_**
->
-><img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECH.png'/>
->
-
-**Also i also have made our main news platforms _[Tek-Tech News](http://news-tektech.rf.gd)_** 
->
-><img src='https://github.com/dev0ps221/dev0ps221/blob/main/TEKTECHNEWS.png'/>
->
-
-
-And some other tools you can find on the Internet
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221)](http://mrmbengue.rf.gd)
 
