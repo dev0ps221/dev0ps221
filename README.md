@@ -5,7 +5,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >echo "I do Code"
 >```
 >
-<p width='100%' height="300px">
+<p width='60%' margin='20%' height="300px">
   <a width="50%" href="https://github.com/dev0ps221/dev0ps221">
   <img width="100%" height="100%" src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
   </a>
