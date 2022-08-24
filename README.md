@@ -5,14 +5,19 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >echo "I do Code"
 >```
 >
-<p style="display:flex;height:300px">
+<table>
+<tr style="display:flex;height:300px">
+  <td>
   <a width="50%" href="https://github.com/dev0ps221/dev0ps221">
   <img width="50%" height="100%" src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
   </a>
+  </td>
+  <td>
   <a width="50%" href="https://github.com/dev0ps221/dev0ps221">
   <img width="50%" height="100%" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" />
   <a href="https://github.com/dev0ps221/dev0ps221">
-</p>
+    </td>
+</tr>
 
 <h3 align="left">Languages and Tools:</h3>
 
