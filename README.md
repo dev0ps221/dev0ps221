@@ -31,7 +31,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 
 
 - 🔭 I’m currently working on ... 
-><a href='https://github.com/dev0ps221/xlidejs'>https://github.com/dev0ps221/xlidejs - YOUR FRIENDLY JS CAROUSEL SLIDER </a>
+><a href='https://github.com/dev0ps221/xmails'>https://github.com/dev0ps221/xmails - YOUR FRIENDLY MAILBOX CLIENT </a>
 
 <!--
 **dev0ps221/dev0ps221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
