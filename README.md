@@ -4,15 +4,12 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >#!/bin/bash
 >echo "AND THIS IS KIND OF WHAT I DO"
 >```
->
-<table>
-<tr>
-  
-    <a width='100%'  height="100px" href='http://mrmbengue.rf.gd'>
+
+  <a width='100%'  height="100px" href='http://mrmbengue.rf.gd'>
         <img width="100%" height="20%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
-    </a>
+  </a>
   
-</tr>
+<table>
 <tr style="display:flex;height:300px">
   <td>
   <a width="50%" height="100%" href="https://github.com/dev0ps221/dev0ps221">
