@@ -5,11 +5,11 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >echo "AND THIS IS KIND OF WHAT I DO"
 >```
 
-  <a width='100%'  height="250" href='http://mrmbengue.rf.gd'>
-        <img width="100%" height="250" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
+  <a width='100%'  height="400" href='http://mrmbengue.rf.gd'>
+        <img width="100%" height="400" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
   </a>
   
-<table>
+<table width='100%'>
 <tr style="display:flex;height:300px">
   <td>
   <a width="50%" height="100%" href="https://github.com/dev0ps221/dev0ps221">
