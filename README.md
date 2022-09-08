@@ -8,11 +8,10 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 <table>
 <tr>
   
-  <td colspan='2'>
     <a width='100%'  height="100px" href='http://mrmbengue.rf.gd'>
         <img width="100%" height="20%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
     </a>
-  </td>
+  
 </tr>
 <tr style="display:flex;height:300px">
   <td>
