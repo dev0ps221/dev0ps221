@@ -10,7 +10,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
   
   <td colspan='2'>
     <a width='100%'  height="100px" href='http://mrmbengue.rf.gd'>
-        <img width="100%" height="100%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
+        <img width="100%" height="50%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
     </a>
   </td>
 </tr>
