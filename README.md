@@ -18,7 +18,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
     </td>
   <td>
     <a width='50%' href='mrmbengue.rf.gd'>
-        <img width="100%" height="100%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif/>
+        <img width="100%" height="100%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
     </a>
   </td>
 </tr>
