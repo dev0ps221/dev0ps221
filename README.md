@@ -8,7 +8,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 <table>
 <tr>
   
-  <td colspan='2'>
+  <td colspan='2' height="100px">
     <a width='100%' height="100%" href='http://mrmbengue.rf.gd'>
         <img width="100%" height="100%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
     </a>
