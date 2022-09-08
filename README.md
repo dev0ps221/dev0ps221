@@ -6,15 +6,15 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >```
 
 <table width='100%'>
-<tr style="display:flex;" height=300>
+<tr style="display:flex;" height=260>
   <td>
-  <a width="50%" height=300 href="https://github.com/dev0ps221/dev0ps221">
-  <img width="100%" height=300 src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
+  <a width="50%" height=260 href="https://github.com/dev0ps221/dev0ps221">
+  <img width="100%" height=260 src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
   </a>
   </td>
   <td>
-  <a width="50%" height=300 href="https://github.com/dev0ps221/dev0ps221">
-  <img width="100%" height=300 src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" /> </a>
+  <a width="50%" height=260 href="https://github.com/dev0ps221/dev0ps221">
+  <img width="100%" height=260 src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" /> </a>
     </td>
 </tr>
 </table>
