@@ -17,7 +17,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
   <img width="100%" height="100%" src="https://taka-github-readme-stats.vercel.app/api/top-langs/?username=dev0ps221&langs_count=8&theme=tokyonight&layout=compact" alt="El Hadji Seybatou Mbengue's Most Used Languages" /> </a>
     </td>
   <td>
-    <a width='50%' href='mrmbengue.rf.gd'>
+    <a width='50%' href='http://mrmbengue.rf.gd'>
         <img width="100%" height="100%" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/>
     </a>
   </td>
