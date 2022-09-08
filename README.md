@@ -6,7 +6,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >```
 
 <table width='100%'>
-<tr style="display:flex;height:500px">
+<tr style="display:flex;" height=500>
   <td>
   <a width="50%" height="100%" href="https://github.com/dev0ps221/dev0ps221">
   <img width="100%" height="100%" src="https://taka-github-readme-stats.vercel.app/api?username=dev0ps221&count_private=true&show_icons=true&theme=tokyonight" alt="dev0ps221's Stats" />
