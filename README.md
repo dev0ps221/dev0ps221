@@ -1,8 +1,24 @@
-### Hi there 👋
+### Salut 👋
+Je suis **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** et ...
+>```
+>#!/bin/bash
+>echo "
+Je suis un passionne des technologies depuis l'enfance, et j'adore les défis.
+Je ne me cherche pas de limites en termes de compétences, et tout projet ou travail
+requérant l'informatique la programmation ou une quelconque orientation de ces sujets me convient.
+Visons l 'excellence et la productivité. 
+A bientôt pour des partenariats efficaces et fructueux."
+>```
+### Hi There 👋
 I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >```
 >#!/bin/bash
->echo "AND THIS IS KIND OF WHAT I DO"
+>echo "
+I have been passionate about technologies since childhood, and I love challenges.
+I do not seek limits in terms of skills, and any project or work
+requiring computer programming or any orientation of these subjects suits me.
+Aim for excellence and productivity.
+See you soon for effective and fruitful partnerships.."
 >```
 
 <table width='100%'>
