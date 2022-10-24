@@ -44,7 +44,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 <h3 align="left">GitHub Trophies:</h3>
 
 > <p align='center' width='100%'>
- [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221&theme=onedark&column=8)](http://mrmbengue.rf.gd) 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=dev0ps221&theme=dracula&column=8)](http://mrmbengue.rf.gd) 
 > </p>
 
 
