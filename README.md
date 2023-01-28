@@ -38,6 +38,27 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 - 🔭 I’m currently working on ... 
 ><a href='https://github.com/dev0ps221/xmails'>https://github.com/dev0ps221/xmails - YOUR FRIENDLY MAILBOX CLIENT </a>
 
+<h1 align="left">😉 Some Stats !📈</h1>
+<p align="center">
+<a href="https://profile.codersrank.io/user/dev0ps221/">
+  <img width="400"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dev0ps221&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
+  />
+</a>
+<a href="https://orbitturner.com">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dev0ps221&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://orbitturner.com">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=dev0ps221&theme=black-ice&hide_border=true" />
+</a>
+</p>
+ <p align="center">
+   <img width="auto"
+    src="https://metrics.lecoq.io/dev0ps221?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UTC"
+  />
+  </p>
+
+<br>
 <!--
 **dev0ps221/dev0ps221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
