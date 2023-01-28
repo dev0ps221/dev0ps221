@@ -41,10 +41,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 <h1 align="left">😉 Stats !📈</h1>
 <p align="center">
 <a href="https://profile.codersrank.io/user/dev0ps221/">
-  <img width="400"
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dev0ps221&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
-  />
-</a>
+  [https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dev0ps221&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false)
 <a href="http://mrmbengue.rf.gd">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=dev0ps221&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
