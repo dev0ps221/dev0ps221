@@ -38,17 +38,17 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 - 🔭 I’m currently working on ... 
 ><a href='https://github.com/dev0ps221/xmails'>https://github.com/dev0ps221/xmails - YOUR FRIENDLY MAILBOX CLIENT </a>
 
-<h1 align="left">😉 Some Stats !📈</h1>
+<h1 align="left">😉 Stats !📈</h1>
 <p align="center">
 <a href="https://profile.codersrank.io/user/dev0ps221/">
   <img width="400"
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dev0ps221&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
   />
 </a>
-<a href="https://orbitturner.com">
+<a href="http://mrmbengue.rf.gd">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=dev0ps221&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://orbitturner.com">
+<a href="http://mrmbengue.rf.gd">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=dev0ps221&theme=black-ice&hide_border=true" />
 </a>
 </p>
