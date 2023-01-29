@@ -1,13 +1,3 @@
-### Salut 👋
-Je suis **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** et ...
->```
->#!/bin/bash
->echo "Je suis un passionne des technologies depuis l'enfance, et j'adore les défis.
->Je ne me cherche pas de limites en termes de compétences, et tout projet ou travail
->requérant l'informatique la programmation ou une quelconque orientation de ces sujets me convient.
->Visons l 'excellence et la productivité. 
->A bientôt pour des partenariats efficaces et fructueux."
->```
 ### Hi There 👋
 I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** and ...
 >```
