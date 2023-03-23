@@ -1,7 +1,7 @@
 
 I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_** 
 
-https://komarev.com/ghpvc/?username=dev0ps221&label=Profile%20views&color=0e75b6&style=flat
+<img src="https://komarev.com/ghpvc/?username=dev0ps221&label=Profile%20views&color=0e75b6&style=flat" alt='El Hadji Seybatou Mbengue'/>
 
 >```
 >#!/bin/bash
