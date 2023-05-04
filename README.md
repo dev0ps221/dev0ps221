@@ -12,7 +12,7 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_**
 >See you soon for effective and fruitful partnerships.."
 >```
 
-
+<script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js"></script>
 <codersrank-timeline username="dev0ps221" type="workexperience"></codersrank-timeline>
 
 <a width='100%'  height="400" href='http://mrmbengue.rf.gd'>
