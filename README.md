@@ -11,6 +11,10 @@ I am **_[El Hadji Seybatou Mbengue](http://mrmbengue.rf.gd)_**
 >Aim for excellence and productivity.
 >See you soon for effective and fruitful partnerships.."
 >```
+
+
+<codersrank-timeline username="dev0ps221" type="workexperience"></codersrank-timeline>
+
 <a width='100%'  height="400" href='http://mrmbengue.rf.gd'>
 <!--       <img width="100%" height="400" src="https://raw.githubusercontent.com/lordvins226/lordvins226/master/assets/animation2.gif"/> -->
 </a>
